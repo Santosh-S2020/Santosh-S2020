@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santosh @Santosh-S2020
-- 👀 I’m interested in Algorith developement 
+- 👀 I’m interested in Algorithm developement 
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Cloud development 
 - 📫 How to reach me ...@ ssanty.besu@gmail.com
